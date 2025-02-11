@@ -7,3 +7,5 @@ Hello! I'm here already
 Пишу на VS Code!
 
 Змінено назву репозиторія на Playwright!
+
+Зробив зміни в UserName користувача на GitHub, змінив ім'я!
