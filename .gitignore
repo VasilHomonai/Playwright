@@ -1,0 +1,9 @@
+# Playwright
+# Лог-файли та тимчасові файли тестів
+test-results/
+playwright-report/
+trace.zip
+*.log
+# Файли кешу Playwright
+node_modules/
+playwright/.cache/
