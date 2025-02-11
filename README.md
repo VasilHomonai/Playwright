@@ -9,3 +9,5 @@ Hello! I'm here already
 Змінено назву репозиторія на Playwright!
 
 Зробив зміни в UserName користувача на GitHub, змінив ім'я!
+
+Переключився на нову гілку 'new_branch'
