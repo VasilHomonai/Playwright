@@ -7,3 +7,5 @@ trace.zip
 # Файли кешу Playwright
 node_modules/
 playwright/.cache/
+# Файли screenshots
+Image/
