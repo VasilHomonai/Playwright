@@ -2,6 +2,9 @@
 # Лог-файли та тимчасові файли тестів
 test-results/
 playwright-report/
+.idea/
+__pycache__/
+venv/
 trace.zip
 *.log
 # Файли кешу Playwright
